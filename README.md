@@ -1,4 +1,4 @@
-**Steam Games Report Analysis: Power BI Dashboard**  
+**Steam Games Report Analysis: Power BI Dashboard**
 
 
 
@@ -6,6 +6,10 @@
 **Overview**
 
 This Power BI dashboard provides a comprehensive analysis of Steam's top 10 games, focusing on key performance indicators such as copies sold, income revenue, and additional details about the gaming industry. The analysis is based on an Excel dataset containing detailed information on the performance of games, their pricing, and user engagement.
+
+**Data Source**
+
+
 
 **Key Insights**
 
